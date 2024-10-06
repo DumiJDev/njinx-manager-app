@@ -1,0 +1,1 @@
+# njinx-manager-app

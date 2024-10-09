@@ -1,0 +1,11 @@
+vaadin:
+  launch-browser: true
+  bun:
+    enable: true
+  url-mapping: /app/*
+spring:
+  application:
+    name: Njinx Manager
+  threads:
+    virtual:
+      enabled: true
